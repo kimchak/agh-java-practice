@@ -9,8 +9,3 @@ public class Program8 {
       System.out.println("Wynik koncowy: "+wynik);
    }
 }
-
-/*
- * Cwiczenia:
- * 1. Zmien petle for w ten sposob, aby i zmienialo sie od 5 do 15 co 2
- */
