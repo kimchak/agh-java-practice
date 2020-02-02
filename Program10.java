@@ -1,5 +1,5 @@
 public class Program10 {
-	public static double pole4(double a, double b) {
+	public static double ole4(double a, double b) {
 		return a * b;
 	}
 
@@ -17,7 +17,3 @@ public class Program10 {
 		System.out.println("Losowa liczba (0-100): " + randomNumber());
 	}
 }
-
-/*
- * Cwiczenia: 1. Dopisz kolejna metode statyczna i uzyj jej w metodzie main()
- */
