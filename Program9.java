@@ -5,9 +5,3 @@ public class Program9 {
       }
    }
 }
-
-/*
- * Cwiczenia:
- * 1. Zmien wartosci poczatkowe, warunek zakonczenia oraz wartosci 
- * o jakie zmieniaja sie zmienne sterujace.
- */
