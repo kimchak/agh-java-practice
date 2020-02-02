@@ -16,10 +16,3 @@ public class Program3 {
       }
    }
 }
-
-
-/*
- * Cwiczenia:
- * 1. Zmodyfkuj program tak, aby sprawdzane bylo czy liczba jest 
- * podzielna przez np. 3 oraz wyswietl reszte z dzielenia.
- */
