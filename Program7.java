@@ -12,8 +12,3 @@ public class Program7 {
       System.out.println();
    }
 }
-
-/*
- * Cwiczenia:
- * 1. Zmien gorna granice przedzialu losowania
- */
