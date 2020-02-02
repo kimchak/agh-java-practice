@@ -16,7 +16,7 @@ public class Program12 {
             zmienna = Integer.parseInt(in.readLine());
             if (zmienna == szuk) {
                System.out.println("Brawo, odgadles!");
-               System.out.println("Iloœæ prób: " +tries);
+               System.out.println("IloÅ›Ä‡ prÃ³b: " +tries);
                if (tries<5)
             	   System.out.println("Doskonale!");
                break;
@@ -32,14 +32,3 @@ public class Program12 {
       }
    }
 }
-
-
-/*
- * Cwiczenia:
- * 1. Wprowadz podawanie gornej granicy przedzialu losowania 
- * przez uzytkownika.
- * 2. Dodaj komunikat wyswietlajacy informacje za ktorym razem udalo sie
- * odgadnac.
- * 3. Wprowadz wyswietlanie dodatkowego komunikatu, gdy uda sie odgadnac
- * w 5 lub mniej probach
- */
