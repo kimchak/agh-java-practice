@@ -14,9 +14,3 @@ public class Program11 {
       System.out.println("Pole kola: "+pole4(2.5));
    }
 }
-
-/*
- * Cwiczenia:
- * 1. Dopisz kolejna metode statyczna o tej samej nazwie, ale innym zestawie parametrow 
- * i uzyj jej w metodzie main()
- */
