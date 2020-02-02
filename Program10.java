@@ -1,5 +1,5 @@
 public class Program10 {
-	public static double ole4(double a, double b) {
+	public static double pole4(double a, double b) {
 		return a * b;
 	}
 
