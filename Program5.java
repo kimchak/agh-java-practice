@@ -10,8 +10,3 @@ public class Program5 {
       }
    }
 }
-
-/*
- * Cwiczenia:
- * 1. zmien petle tak, aby a zmienialo sie od 15 do 1
- */
