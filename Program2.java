@@ -4,7 +4,7 @@ public class Program2 {
    public static void main(String[] args) {
       try {
       int x, y, pole, obwod;
-      System.out.println("Podaj pierwszπ, dowolna liczbe calkowita: ");
+      System.out.println("Podaj pierwsz≈°, dowolna liczbe calkowita: ");
       BufferedReader in = new BufferedReader(new InputStreamReader(System.in));      
       x = Integer.parseInt(in.readLine());
       System.out.println("Podaj druga, dowolna liczbe calkowita: ");
@@ -13,15 +13,9 @@ public class Program2 {
 //      zmiana na pole prostokata
       pole = x*y;
       obwod = 2*x+2*y;
-      System.out.println("Pole prostokπta o boku "+x+" i " +y +" wynosi: "+pole);
-      System.out.println("ObwÛd prostokπta o boku "+x+" i " +y+ " wynosi: "+obwod);
+      System.out.println("Pole prostok≈°ta o boku "+x+" i " +y +" wynosi: "+pole);
+      System.out.println("Obw√≥d prostok≈°ta o boku "+x+" i " +y+ " wynosi: "+obwod);
       } catch (IOException e) {
       }
    }
 }
-
-/*
- * Cwiczenia:
- * 1. wczytaj dwie liczby i wyswietl ich iloczyn (pole prostokata);
- * 2. policz i wyswietl obwod prostokata.
- */
